@@ -3,10 +3,7 @@ public class Contact {
     private String lastName;
     private String phoneNumber;
 
-
-    public void setName(String name) {
-        this.name = name;
-    }
+    
 
     public String getLastName() {
         return lastName;
